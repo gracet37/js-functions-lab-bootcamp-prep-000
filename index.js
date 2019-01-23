@@ -1,9 +1,9 @@
 // write your code below!
 function happyHolidays() {
-  console.log()
+  
 }
 
-happyHolidays() 
+ha
 
 function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
